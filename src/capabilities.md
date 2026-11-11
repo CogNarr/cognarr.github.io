@@ -3,7 +3,7 @@
 CogNarr reads a narrative and builds a story graph you can inspect and correct. The story view shows the narrative, the semantic graph built from the selected sentence, and an inspector for any element.
 
 ```@raw html
-<img src="assets/story-view.png" alt="The CogNarr story view: the narrative text, the semantic graph built from a sentence, and an inspector panel for the selected element." style="border:1px solid #cbd0d8;border-radius:4px">
+<img src="/assets/story-view.png" alt="The CogNarr story view: the narrative text, the semantic graph built from a sentence, and an inspector panel for the selected element." style="border:1px solid #cbd0d8;border-radius:4px">
 ```
 
 - CogNarr transforms natural-language narrative into a formal, queryable semantic graph.
