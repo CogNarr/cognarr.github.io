@@ -1,10 +1,12 @@
 # What CogNarr does
 
-CogNarr reads a narrative and builds a story graph you can inspect and correct. The story view shows the narrative, the semantic graph built from the selected sentence, and an inspector for any element.
+CogNarr reads a narrative and builds a story graph you can inspect and correct. The semantic graph below is built from a short passage: each node is an entity or event carrying its word sense, and the labeled edges are the thematic roles and discourse relations that bind them.
 
 ```@raw html
-<img src="/assets/story-view.png" alt="The CogNarr story view: the narrative text, the semantic graph built from a sentence, and an inspector panel for the selected element." style="border:1px solid #cbd0d8;border-radius:4px">
+<img src="/assets/sdrs.png" alt="A CogNarr semantic graph built from two clauses: entities and events labeled with their word senses, connected by thematic-role and discourse-relation edges." style="border:1px solid #cbd0d8;border-radius:4px">
 ```
+
+*A semantic graph for two clauses, showing entities and events with their word senses, the thematic roles that connect them, and the discourse relation between the clauses.*
 
 - CogNarr transforms natural-language narrative into a formal, queryable semantic graph.
 - It represents uncertainty explicitly, as soft distributions across the many dimensions of a reading, such as word sense, coreference, and entity identity.
