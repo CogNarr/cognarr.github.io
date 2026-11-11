@@ -4,7 +4,7 @@
 <img src="/assets/jb-head.png" alt="John Boik" width="200" style="float:right;margin:0.25rem 0 1rem 1.5rem">
 ```
 
-CogNarr is developed by John Boik, a research fellow at the Active Inference Institute. John received a BS in Civil and Environmental Engineering from the University of Colorado Boulder, and a PhD in Biomedical Sciences from the University of Texas Health Science Center at Houston, where his graduate research focused on natural products and cancer biology. He conducted postdoctoral training in the Department of Statistics at Stanford University. He also holds a master's degree in Acupuncture and Oriental Medicine from the Oregon College of Oriental Medicine, in Portland, Oregon.
+CogNarr was founded and is developed by John Boik, a research fellow at the Active Inference Institute. John received a BS in Civil and Environmental Engineering from the University of Colorado Boulder, and a PhD in Biomedical Sciences from the University of Texas Health Science Center at Houston, where his graduate research focused on natural products and cancer biology. He conducted postdoctoral training in the Department of Statistics at Stanford University. He also holds a master's degree in Acupuncture and Oriental Medicine from the Oregon College of Oriental Medicine, in Portland, Oregon.
 
 ## CogNarr Origins
 
