@@ -23,6 +23,7 @@ Presentations on CogNarr at the Applied Active Inference Symposium:
 
 - 4th Applied Active Inference Symposium, November 14, 2024 — *CogNarr Ecosystem: Facilitating Group Cognition at Scale.* [youtu.be/nCZZBuk_wmU?t=21687](https://youtu.be/nCZZBuk_wmU?t=21687)
 - 5th Applied Active Inference Symposium, November 14, 2025 — *Story Graphs: An Exploration of Use Cases In and Beyond CogNarr.* [youtu.be/v7aSUMX1nfs?t=14659](https://youtu.be/v7aSUMX1nfs?t=14659)
+- 6th Applied Active Inference Symposium, November 12, 2026 — *CogNarr Story Graph: A Formal Semantics for Narrative as a Belief Model.* [youtu.be/-v4IaFY9MZI?t=26642](https://youtu.be/-v4IaFY9MZI?t=26642) · [slides (PDF)](/assets/cognarr-symposium-2026-slides.pdf)
 
 Four LiveStreams discuss the 2020–2021 *Science-Driven Societal Transformation* series:
 
